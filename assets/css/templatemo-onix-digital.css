@@ -225,7 +225,7 @@ body {
   font-size: 15px;
   font-weight: 400;
   color: #fff;
-  text-transform: capitalize;
+  text-transform: lowercase;
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
